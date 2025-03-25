@@ -9,11 +9,11 @@ config.json配置
 ```json
 [
     {
-        "address": "钱包1",
+        "address": "钱包地址1",
         "proxy": "http://192.168.2.7:50550"
     },
     {
-        "address": "钱包2",
+        "address": "钱包地址2",
         "proxy": "http://192.168.2.7:50051"
     }
 ]
